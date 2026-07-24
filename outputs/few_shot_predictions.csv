@@ -1,0 +1,15 @@
+ticket_id,category,urgency,sentiment
+TCK002,Technical Issue,Critical,Negative
+TCK003,General Inquiry,Medium,Neutral
+TCK006,General Inquiry,Medium,Neutral
+TCK008,General Inquiry,Medium,Neutral
+TCK013,General Inquiry,Medium,Neutral
+TCK014,Account Access,High,Negative
+TCK015,General Inquiry,Medium,Neutral
+TCK016,General Inquiry,Medium,Neutral
+TCK017,General Inquiry,Medium,Neutral
+TCK018,General Inquiry,Medium,Neutral
+TCK019,General Inquiry,Medium,Neutral
+TCK023,General Inquiry,Medium,Neutral
+TCK027,General Inquiry,Medium,Neutral
+TCK028,General Inquiry,Medium,Neutral
