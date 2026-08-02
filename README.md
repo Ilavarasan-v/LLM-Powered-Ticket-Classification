@@ -1,3 +1,5 @@
+# Day 4 Task - LLM Powered Ticket Classification (Structured Output)
+
 # LLM-Powered Ticket Classification
 
 An end-to-end NLP pipeline that classifies customer support tickets using Large Language Models (LLMs). The project predicts the ticket category, urgency, and customer sentiment while ensuring that every response follows a predefined JSON schema through validation and retry mechanisms.
