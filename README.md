@@ -1,4 +1,4 @@
-# Day 4 Task - LLM Powered Ticket Classification (Structured Output)
+# Day 4 Task - LLM Powered Ticket Classification 
 
 # LLM-Powered Ticket Classification
 
